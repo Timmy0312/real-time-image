@@ -1,0 +1,48 @@
+.heading{
+font-size: 23px;
+width:100%;
+margin:0;
+box-shadow: 5px 5px 5px limegreen;
+}
+
+.heading_div{
+
+padding:10px;
+float:none;
+background-color: linen;
+color: peru;
+box-shadow: 5px 5px 5px purple;
+border-radius: 10px;
+
+}
+
+.heading_div2{
+
+  font-size: 18px;
+}
+
+.result-para-tag{
+
+font-size:20px;
+box-shadow:5px 5px 5px purple;
+
+}
+
+.footer{
+
+position:fixed;
+line-height: 3;
+width:100%;
+text-align: center;
+color:red;
+background-color: seagreen;
+bottom:0;
+}
+canvas{
+
+margin-top:150px;
+border:5px solid lightblue ;
+border-radius:20px;
+box-shadow: 5px 5px 5px limegreen;
+
+}
